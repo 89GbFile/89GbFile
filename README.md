@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @89GbFile
-- 👀 I’m interested in Animation and Game Making
+- 👀 I’m interested in Animation and Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
